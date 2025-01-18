@@ -1,0 +1,104 @@
+@font-face {
+    font-family: "Cinzel";
+    src: url(/Assets/Fonts/Cinzel-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Cinzel-Bold";
+    src: url(/Assets/Fonts/Cinzel-SemiBold.ttf);
+}
+
+h1,h2,h3,h4{
+    margin: 0 !important;
+    padding: 0 !important;
+    cursor: default;
+}
+
+h1{
+    font-size: 115px;
+}
+
+h2{
+    font-size: 64px;
+}
+
+b{
+    font-family: "Cinzel-Bold";
+}
+
+a{
+    all: unset;
+}
+
+body{
+    font-family: "Cinzel", Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.container{
+    margin: 5rem;
+    max-width: 90%;
+}
+
+button{
+    color: white;
+    padding: .25rem 1rem;
+    border-radius: .5rem;
+    border: 3px white solid;
+    background-image: linear-gradient(to bottom right,crimson,cornsilk);
+    filter: drop-shadow(5px 5px 3px black);
+}
+
+button:hover{
+    background-image: linear-gradient(to bottom right,cornsilk,crimson);
+    color: black;
+    border:black solid;
+    cursor: default;
+}
+
+.titleCard{
+    margin: 4rem 0rem;
+    color: lightpink;
+}
+
+.hoverSetting{
+    width: fit-content;
+}
+
+.hoverSetting:hover{
+    color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.imgFormat{
+    border-radius: 3rem;
+    border: 30px solid rgba(0, 0, 0, 0.493);
+    width: 100%;
+}
+
+.offcanvas{
+    width: fit-content;
+    height: fit-content !important;
+}
+
+.offcanvas.offcanvas-top{
+    left: 40%;
+    top: 20%;
+}
+
+.blueBG{
+    background-image: url(/Assets/tekkenWP2.jpeg);
+}
+
+.redBG{
+    background-image: url(/Assets/tekkenWPVS.jpg);
+}
+
+.loseBG{
+    background-image: url(/Assets/tekkenWP3.jpg);
+}
+
+.winBG{
+    background-image: url(/Assets/tekkenWP4.jpg);
+}

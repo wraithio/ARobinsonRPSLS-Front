@@ -1,0 +1,12 @@
+button{
+    background-image: linear-gradient(to bottom right,blue,cornsilk);
+}
+
+button:hover{
+    background-image: linear-gradient(to bottom right,cornsilk,blue);
+
+}
+
+.titleCard{
+    color: lightsteelblue;
+}
