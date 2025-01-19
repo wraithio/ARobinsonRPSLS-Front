@@ -23,4 +23,5 @@ vercel [here](https://a-robinson-rpsls-front-90jnsfu4y-wraithios-projects.vercel
 3.Scissors
 4.Lizard
 5.Spock
-### Peer Review by: 
+### Peer Review by: Michael Heckerman
+**Comments:**  Site looks amazing from the start. Both of your vs. modes work as intented and all the rounds for each work as well. Would be cool if the user didn't have to scroll down to make certain choices and submit but thats a small nitpick. Was able to see the rules.  I did notice that you don't have a index.html, Im not sure if they might mark you down on that. The site does work as intended.  Another thing I noticed was your vercel link isnt working at the time of this writting. All in all it was a reall cool looking site that was easy to understand and use. Good Job.
